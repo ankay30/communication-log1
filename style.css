@@ -1,9 +1,12 @@
 body {
+<<<<<<< HEAD
    color: lightgreen;
    background-color: black;
+=======
+   color: white;
+   background-color: darkblue;
+>>>>>>> 9baca875829d2103537b35fc00c38c0e2b5b8eb4
    font-family: 'Sacramento', cursive;
-   font-size: 32px;
-   margin-top: 5%;
-   margin-left: 20%;
-   margin-right: 20%;
+   font-size: 150%;
+   margin: 5em 25%;
 }
